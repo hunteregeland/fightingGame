@@ -1,5 +1,4 @@
-# fightingGame
-CPP COMBAT!
+# CPP Combat!
 
 This was the final project of my object-oriented programming course, CST-210, where we needed to design and implement a fantasy fighting game with file i/o, user tracking and saving, and other object-orientedd programming concepts
 
